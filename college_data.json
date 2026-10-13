@@ -1,0 +1,332 @@
+{
+  "institution": {
+    "name": "Apex Institute of Technology & Higher Sciences",
+    "short_name": "AITHS",
+    "placeholder_note": "[REPLACE THIS BLOCK WITH YOUR OWN COLLEGE NAME, ADDRESS, AND INSTITUTIONAL DETAILS]",
+    "established_year": 1998,
+    "code": "AIT-9042",
+    "accreditation": "NAAC A+ Grade Accredited | Approved by AICTE & UGC",
+    "campus_address": "Knowledge Park Campus, 42 University Boulevard, Tech Valley, Metro City 560001",
+    "motto": "Excellence in Innovation, Integrity in Education",
+    "campus_size": "65 Acres Green Eco-Campus",
+    "working_hours": "Monday to Saturday: 9:00 AM - 5:00 PM (Office closed on 2nd Saturdays & Public Holidays)",
+    "official_website": "https://www.example-college-portal.edu",
+    "admissions_portal": "https://admissions.example-college-portal.edu",
+    "student_portal": "https://erp.example-college-portal.edu"
+  },
+  "admissions": {
+    "academic_year": "2026 - 2027",
+    "eligibility_ug": {
+      "general_rule": "Candidates must have passed 10+2 / Higher Secondary Examination with Physics, Mathematics, and Chemistry/Computer Science.",
+      "minimum_marks": "Minimum 60% aggregate marks (55% for reserved category SC/ST/OBC students) in standard 12th board examinations.",
+      "accepted_entrance_exams": [
+        "State Common Entrance Test (CET)",
+        "JEE Main (National Entrance)",
+        "AITHS Institutional Merit Aptitude Test (IMAT)"
+      ]
+    },
+    "eligibility_pg": {
+      "general_rule": "Bachelor's degree in relevant discipline (B.E./B.Tech/BCA/B.Sc) from a recognized university.",
+      "minimum_marks": "Minimum 55% aggregate or CGPA of 6.0 on a 10-point scale.",
+      "accepted_entrance_exams": [
+        "GATE for M.Tech",
+        "CAT / MAT / CMAT for MBA",
+        "Institutional Entrance Test for MCA"
+      ]
+    },
+    "application_steps": [
+      "Step 1: Register online on the official admissions portal (admissions.example-college-portal.edu).",
+      "Step 2: Fill in academic details and upload 10th/12th grade marksheets, entrance test scorecard, and ID proof.",
+      "Step 3: Pay the non-refundable application fee of ₹1,200 via online net banking/UPI.",
+      "Step 4: Check published merit lists and counseling call letters on the portal.",
+      "Step 5: Attend in-person document verification at the Admissions Office and confirm provisional seat allotment."
+    ],
+    "important_dates": {
+      "online_application_opens": "March 15, 2026",
+      "application_deadline": "June 25, 2026",
+      "merit_list_announcement": "July 05, 2026",
+      "counseling_and_seat_allocation": "July 12 - July 20, 2026",
+      "commencement_of_first_year_classes": "August 10, 2026"
+    },
+    "reservation_policy": "Reservations strictly adhere to state government educational norms: SC (15%), ST (7.5%), OBC-NCL (27%), EWS (10%), and Persons with Disability PwD (5% horizontal reservation)."
+  },
+  "courses": [
+    {
+      "code": "CS101",
+      "degree": "B.Tech",
+      "department": "Computer Science & Engineering",
+      "duration_years": 4,
+      "total_seats": 180,
+      "description": "Comprehensive curriculum covering Artificial Intelligence, Cloud Computing, Distributed Systems, and Full-Stack Engineering.",
+      "key_subjects": ["Data Structures & Algorithms", "Operating Systems", "Machine Learning", "Computer Networks", "Cybersecurity", "Database Systems"]
+    },
+    {
+      "code": "AI102",
+      "degree": "B.Tech",
+      "department": "Artificial Intelligence & Data Science",
+      "duration_years": 4,
+      "total_seats": 120,
+      "description": "Specialized degree focusing on Machine Learning architectures, Deep Learning, Big Data pipelines, and Natural Language Processing.",
+      "key_subjects": ["Linear Algebra & Statistics", "Neural Networks", "NLP & LLM Applications", "Big Data Analytics", "Computer Vision"]
+    },
+    {
+      "code": "EC103",
+      "degree": "B.Tech",
+      "department": "Electronics & Communication Engineering",
+      "duration_years": 4,
+      "total_seats": 120,
+      "description": "Focuses on VLSI design, Embedded Systems, IoT architecture, and Wireless Communications.",
+      "key_subjects": ["Digital Signal Processing", "Microcontrollers & IoT", "VLSI Architecture", "Electromagnetic Theory", "Robotics"]
+    },
+    {
+      "code": "ME104",
+      "degree": "B.Tech",
+      "department": "Mechanical & Mechatronics Engineering",
+      "duration_years": 4,
+      "total_seats": 60,
+      "description": "Blend of traditional thermo-mechanical design with robotics, automation, and 3D additive manufacturing.",
+      "key_subjects": ["Thermodynamics", "CAD/CAM & 3D Printing", "Mechatronics Systems", "Fluid Mechanics", "Industrial Automation"]
+    },
+    {
+      "code": "MB201",
+      "degree": "MBA",
+      "department": "School of Management Studies",
+      "duration_years": 2,
+      "total_seats": 90,
+      "description": "Postgraduate leadership program in Business Analytics, Financial Markets, Marketing, and Operations.",
+      "key_subjects": ["Corporate Finance", "Strategic Marketing", "Business Intelligence", "Supply Chain Management", "Organizational Behavior"]
+    },
+    {
+      "code": "MT202",
+      "degree": "M.Tech",
+      "department": "Computer Science & Engineering",
+      "duration_years": 2,
+      "total_seats": 30,
+      "description": "Advanced research-oriented master's degree in High-Performance Computing and Intelligent Systems.",
+      "key_subjects": ["Advanced Distributed Algorithms", "Cloud Architecture", "Research Methodology", "Master Thesis Project"]
+    }
+  ],
+  "fee_structure": {
+    "currency": "INR (₹)",
+    "payment_mode": "Online ERP portal via Net Banking, Debit/Credit Cards, or NEFT/RTGS challan.",
+    "annual_tuition_fees": [
+      {
+        "course": "B.Tech (Computer Science & Engineering / AI & DS)",
+        "tuition_fee_per_year": "₹1,45,000",
+        "development_fee_per_year": "₹20,000",
+        "total_annual_academic_fee": "₹1,65,000"
+      },
+      {
+        "course": "B.Tech (Electronics / Mechanical Engineering)",
+        "tuition_fee_per_year": "₹1,25,000",
+        "development_fee_per_year": "₹15,000",
+        "total_annual_academic_fee": "₹1,40,000"
+      },
+      {
+        "course": "MBA (Master of Business Administration)",
+        "tuition_fee_per_year": "₹1,50,000",
+        "development_fee_per_year": "₹20,000",
+        "total_annual_academic_fee": "₹1,70,000"
+      },
+      {
+        "course": "M.Tech (Computer Science)",
+        "tuition_fee_per_year": "₹95,000",
+        "development_fee_per_year": "₹15,000",
+        "total_annual_academic_fee": "₹1,10,000"
+      }
+    ],
+    "one_time_fees_at_admission": {
+      "admission_registration_fee": "₹5,000 (Non-refundable)",
+      "refundable_caution_deposit": "₹10,000 (Refundable upon course completion)",
+      "alumni_and_id_card_fee": "₹2,500"
+    },
+    "hostel_and_mess_fees": {
+      "triple_sharing_room": "₹80,000 per year (Including 4-meal mess plan)",
+      "double_sharing_room": "₹95,000 per year (Including 4-meal mess plan)",
+      "single_ac_room": "₹1,30,000 per year (Including 4-meal mess plan)",
+      "hostel_caution_deposit": "₹5,000 (Refundable)"
+    },
+    "transport_bus_fee": "₹22,000 to ₹34,000 per year depending on route distance zone.",
+    "fee_payment_schedule": "Semester fees are payable in two installments: Odd Semester by July 31st; Even Semester by January 15th. A grace period of 7 days is provided, after which late fee of ₹100/day applies.",
+    "fee_refund_policy": "As per UGC guidelines: 100% refund if withdrawn 15 days before commencement; 90% within 15 days before; 80% within 15 days after; 50% between 16 and 30 days; 0% beyond 30 days after session commencement."
+  },
+  "faculty": {
+    "total_faculty_members": 165,
+    "faculty_student_ratio": "1 : 15",
+    "phd_qualified_percentage": "68%",
+    "department_heads": [
+      {
+        "department": "Computer Science & Engineering",
+        "head_of_department": "Dr. Sarah V. Nair, Ph.D. (IIT Madras)",
+        "experience": "22 Years in Academia & Research",
+        "specialization": "Distributed Systems, Machine Learning",
+        "email": "hod.cse@example-college-portal.edu"
+      },
+      {
+        "department": "Artificial Intelligence & Data Science",
+        "head_of_department": "Dr. Rajesh K. Mehta, Ph.D. (IISc Bangalore)",
+        "experience": "18 Years in AI & Industrial R&D",
+        "specialization": "Deep Learning, Natural Language Processing",
+        "email": "hod.ai@example-college-portal.edu"
+      },
+      {
+        "department": "Electronics & Communication",
+        "head_of_department": "Dr. Aruna Shenoy, Ph.D. (NIT Surathkal)",
+        "experience": "20 Years in Embedded Systems",
+        "specialization": "VLSI Design, Signal Processing",
+        "email": "hod.ece@example-college-portal.edu"
+      },
+      {
+        "department": "School of Management Studies",
+        "head_of_department": "Prof. David R. Thomas, Ph.D. (IIM Calcutta)",
+        "experience": "25 Years in Business Strategy",
+        "specialization": "Strategic Analytics & Corporate Finance",
+        "email": "hod.mba@example-college-portal.edu"
+      }
+    ]
+  },
+  "examinations_and_academics": {
+    "curriculum_structure": "Choice Based Credit System (CBCS) with semester pattern (8 semesters for B.Tech, 4 for MBA/M.Tech).",
+    "attendance_requirement": "Mandatory minimum 75% attendance in each registered subject to be eligible to sit for End-Semester Examinations. Medical exemption up to 65% is considered upon Dean approval with verified hospital records.",
+    "evaluation_breakdown": {
+      "internal_continuous_assessment": "40% (2 Mid-term tests, surprise quizzes, laboratory practicals, and assignments)",
+      "end_semester_theory_exam": "60% (Conducted centrally by College Examination Cell)"
+    },
+    "grading_scale": [
+      { "grade": "O (Outstanding)", "grade_points": 10, "marks_range": "90% - 100%" },
+      { "grade": "A+ (Excellent)", "grade_points": 9, "marks_range": "80% - 89%" },
+      { "grade": "A (Very Good)", "grade_points": 8, "marks_range": "70% - 79%" },
+      { "grade": "B+ (Good)", "grade_points": 7, "marks_range": "60% - 69%" },
+      { "grade": "B (Above Average)", "grade_points": 6, "marks_range": "55% - 59%" },
+      { "grade": "C (Pass)", "grade_points": 5, "marks_range": "50% - 54%" },
+      { "grade": "F (Fail)", "grade_points": 0, "marks_range": "Below 50%" }
+    ],
+    "passing_criteria": "Minimum 40% in End-Semester written examination and 50% combined (internal + external) to clear a course.",
+    "backlog_and_revaluation_rules": "Supplementary / Backlog examinations are scheduled alongside regular semester exams. Students can apply for photo-copy inspection and revaluation within 15 calendar days of result declaration via the examination portal for ₹500 per subject.",
+    "tentative_exam_schedules": {
+      "odd_semester_midterms": "October 2026",
+      "odd_semester_end_exams": "December 2026",
+      "even_semester_midterms": "March 2027",
+      "even_semester_end_exams": "May - June 2027"
+    }
+  },
+  "placements_and_internships": {
+    "placement_season": "Starts in 7th Semester (August) through 8th Semester (April).",
+    "overall_placement_rate": "92.4% eligible students placed (2025 graduating batch).",
+    "highest_salary_package": "₹44.5 LPA (International/National Cloud Tech)",
+    "average_salary_package": "₹7.8 LPA",
+    "median_salary_package": "₹6.5 LPA",
+    "total_companies_visited": "140+ National & Multinational Corporations",
+    "top_recruiters": [
+      "Microsoft", "Amazon", "Infosys", "Tata Consultancy Services (TCS)",
+      "Wipro", "Cognizant", "Accenture", "Deloitte", "L&T Infotech",
+      "Robert Bosch", "Texas Instruments", "HCL Tech", "Cisco"
+    ],
+    "internship_opportunities": "Mandatory 8-week summer internship between 6th and 7th semester. College Training & Placement Cell provides on-campus internship drives with stipends ranging from ₹15,000 to ₹60,000 per month.",
+    "training_cell_initiatives": "Comprehensive soft skills, competitive programming, mock technical interviews, and resume review workshops provided free of charge to all enrolled students."
+  },
+  "scholarships": [
+    {
+      "name": "Chairman's Merit Excellence Scholarship",
+      "benefit": "50% to 100% tuition fee waiver for top 20 rank holders in national/state entrance tests.",
+      "eligibility": "Rank within top 2,000 in State CET or 95+ percentile in JEE Main."
+    },
+    {
+      "name": "Dean's Academic Honor Concession",
+      "benefit": "25% tuition fee waiver for subsequent academic year.",
+      "eligibility": "Students securing CGPA 9.2 and above in university semester exams."
+    },
+    {
+      "name": "Economically Weaker Section (EWS) Support Scheme",
+      "benefit": "Up to 40% tuition fee subsidy + book bank support.",
+      "eligibility": "Annual family income verified below ₹3,00,000 with satisfactory academic record."
+    },
+    {
+      "name": "Women in STEM Advancement Grant",
+      "benefit": "₹25,000 annual scholarship incentive for female engineering students.",
+      "eligibility": "Top 15 enrolled female candidates based on merit."
+    },
+    {
+      "name": "National & State Government Scholarships",
+      "benefit": "Post-Matric Scholarships for SC/ST/OBC and Minority students as disbursed directly by government welfare departments.",
+      "eligibility": "Subject to state government portal application deadlines (usually September 30)."
+    }
+  ],
+  "facilities": {
+    "library": {
+      "name": "Dr. APJ Abdul Kalam Central Digital Library",
+      "volumes": "55,000+ Print Volumes | 12,000+ Titles",
+      "digital_resources": "IEEE Xplore, ScienceDirect, ACM Digital Library, SpringerLink, and NPTEL courseware access.",
+      "operating_hours": "8:00 AM - 10:00 PM (Extended till 12:00 Midnight during examination weeks)",
+      "facilities": "Air-conditioned 400-seat reading hall, Discussion rooms, High-speed Wi-Fi, Reprography section."
+    },
+    "laboratories": {
+      "key_labs": [
+        "Advanced Computing & Cloud AI Lab (60 high-performance GPU workstations)",
+        "IoT & Embedded Systems Lab equipped with ARM Cortex kits",
+        "VLSI Design Studio with Cadence & Synopsis software",
+        "Robotics, Mechatronics & CNC Automation Workshop",
+        "Physics & Modern Applied Chemistry Laboratories"
+      ]
+    },
+    "hostel": {
+      "capacity": "Separate secure residential hostels for 900 Boys and 650 Girls on campus.",
+      "amenities": "24/7 Security CCTV, Biometric attendance, High-speed Wi-Fi, Gym, Indoor games room, Solar water heaters.",
+      "curfew_rules": "Hostel gates close strictly at 8:30 PM for all students. Weekend night-outs require warden approval and written parent consent."
+    },
+    "transport": {
+      "fleet_size": "28 GPS-enabled air-conditioned college buses operating across 16 city routes.",
+      "coverage": "Servicing Metro Central, North Railway Station, Suburbs, and Outer Ring Road.",
+      "tracking": "Live bus location tracking available on the student mobile portal."
+    },
+    "sports_and_recreation": {
+      "facilities": "Floodlit basketball courts, FIFA-standard football ground, cricket turf pitch, 4 badminton courts, gymnasium with certified trainers, and table tennis arena."
+    },
+    "cafeteria_and_medical": {
+      "cafeteria": "Multi-cuisine hygienic food court with subsidized meal options serving North & South Indian, healthy salads, and bakery items.",
+      "health_centre": "24/7 Campus Medical Clinic with resident physician, qualified nurses, basic pharmacy, and dedicated emergency ambulance on call."
+    }
+  },
+  "contacts_and_directory": {
+    "admissions_helpdesk": {
+      "phone": "+91 80 2345 6789 / +91 80 2345 6790",
+      "email": "admissions@example-college-portal.edu",
+      "office_location": "Ground Floor, Administrative Block, Room G-04",
+      "in_charge": "Prof. K. Ramanathan, Director of Admissions"
+    },
+    "examinations_office": {
+      "phone": "+91 80 2345 6795",
+      "email": "coe@example-college-portal.edu",
+      "office_location": "Second Floor, Central Block, Room C-201",
+      "in_charge": "Controller of Examinations"
+    },
+    "accounts_and_fees": {
+      "phone": "+91 80 2345 6792",
+      "email": "accounts@example-college-portal.edu",
+      "office_location": "Ground Floor, Admin Block, Counter 2 & 3",
+      "working_hours": "9:30 AM - 3:30 PM (Fee counters)"
+    },
+    "training_and_placement_cell": {
+      "phone": "+91 80 2345 6798",
+      "email": "placements@example-college-portal.edu",
+      "office_location": "Third Floor, Tech Tower, Room T-302",
+      "in_charge": "Head of Corporate Relations & Placements"
+    },
+    "hostel_wardens": {
+      "boys_hostel": "+91 80 2345 6801 (Chief Warden)",
+      "girls_hostel": "+91 80 2345 6802 (Chief Warden)",
+      "email": "hostel@example-college-portal.edu"
+    },
+    "student_grievance_and_helpline": {
+      "emergency_24x7": "+91 98450 11223",
+      "anti_ragging_toll_free": "1800-180-5522",
+      "internal_complaints_committee": "icc@example-college-portal.edu"
+    },
+    "quick_links": [
+      { "title": "Official Portal", "url": "https://www.example-college-portal.edu" },
+      { "title": "Admissions Desk", "url": "https://admissions.example-college-portal.edu" },
+      { "title": "Student ERP Login", "url": "https://erp.example-college-portal.edu" },
+      { "title": "Exam Results & Hall Tickets", "url": "https://exams.example-college-portal.edu" }
+    ]
+  }
+}

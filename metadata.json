@@ -1,0 +1,6 @@
+{
+  "name": "CampusQuery - College Chatbot & Knowledge Hub",
+  "description": "A professional college query chatbot web application answering student questions on admissions, fees, courses, placements, exams, and facilities grounded strictly in institutional records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
